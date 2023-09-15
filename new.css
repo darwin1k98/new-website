@@ -1,0 +1,479 @@
+.nav-item1 {
+  color: #D27722;
+  font-family: Rubik;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  letter-spacing: -0.64px;
+}
+
+.nav-item2 {
+  color: var(--Text-Color, #252422);
+  font-family: Outfit;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: capitalize;
+
+
+}
+
+.nav-item3 {
+  color: var(--Text-Color, #252422);
+  font-family: Outfit;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: capitalize;
+
+
+}
+
+.nav-item4 {
+  color: var(--Text-Color, #252422);
+  font-family: Outfit;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.login {
+  border-radius: 4px;
+  background: var(--Primary, #D27722);
+  width: 131px;
+  padding: 8px 10px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  gap: 8px;
+}
+
+
+.counts {
+  margin-top: 5%;
+  color: var(--Primary, #D27722);
+  font-family: Rubik;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.8px;
+}
+
+.num {
+  padding: 120px;
+}
+
+.word {
+  padding: 120px
+}
+
+.counts2 {
+  display: flex;
+  margin-right: 15rem;
+  padding: 280%;
+
+}
+
+.heading1 {
+  padding: 1%;
+}
+
+.smallpara {
+  padding: 1%;
+
+
+}
+
+.adv {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.images {
+  position: relative;
+  border-radius: 20%;
+}
+
+.content {
+  position: absolute;
+  background-color: #D27722;
+  border-radius: 3%;
+  margin-top: -150px;
+
+}
+
+.culinary-padding {
+  padding-left: 10%;
+}
+
+.advantages {
+  display: flex;
+
+
+}
+
+.play-circle {
+  display: flex;
+}
+
+.highlighted {
+
+  color: var(--Primary, #D27722);
+  font-family: Pacifico, cursive;
+  font-size: 61px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 113.3%;
+  letter-spacing: -2.44px;
+}
+
+
+.cook-padding {
+  padding-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.foods {
+  position: relative;
+}
+
+.one {
+  background-color: #D27722;
+  font-weight: 900;
+  font-size: 100px;
+  font-style: normal;
+  position: absolute;
+  margin-top: -25rem;
+  border-radius: 8%;
+  width: 8%;
+
+  text-align: center;
+}
+
+.chef1 {
+
+  background-color: #D27722;
+  border-radius: 100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.grid-container div {
+
+  padding: 20px;
+  text-align: center;
+}
+
+.button-card {
+  display: flex;
+}
+
+
+.explore {
+  display: flex
+}
+
+.nav {
+  display: flex;
+}
+
+.vegan {
+  display: flex;
+  padding-left: 50%;
+  padding-top: 5%;
+}
+
+.login-detail2 {
+  margin-left: 40rem;
+
+}
+
+.login-detail1 {
+  padding-left: 10px;
+
+}
+
+.master-bakery {
+  border-radius: 16px;
+  border: 1px solid var(--Primary-Lighten, #FFDBB8);
+  background-color: #D27722;
+  display: flex;
+}
+
+.explore-font {
+
+  font-size: small;
+}
+
+
+
+.experts {
+  color: var(--Text-Color, #252422);
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+  margin-top: 10rem;
+  font-size: 55px;
+  font-style: normal;
+  line-height: 113.3%;
+  letter-spacing: -2.44px;
+}
+
+.highlight {
+  color: var(--Primary, #D27722);
+  font-family: Pacifico;
+  font-size: 61px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 113.3%;
+  letter-spacing: -2.44px;
+
+}
+
+.padding {
+  padding: 10%;
+}
+
+.girl {
+  margin-top: 10rem;
+  margin-left: 15rem;
+
+}
+
+.girl1 {
+  border-radius: 10%;
+
+}
+
+.benefit {
+  text-align: center;
+}
+
+.teaching {
+  text-align: center;
+}
+
+.lesson-fontsize {
+  padding-left: 10%;
+  padding-top: 5%;
+}
+
+.box1 {
+  position: relative;
+}
+
+.choco {
+  border-radius: 2cm;
+
+}
+
+.box2 {
+  position: absolute;
+  background-color: #D27722;
+  width: 5%;
+  font-size: 30px;
+  text-align: center;
+  margin-top: -4%;
+  margin-left: -14px;
+  border-radius: 2cm;
+}
+
+.signup-content {
+  padding-left: 10%;
+  padding-top: 5%;
+
+}
+
+.sign-up-padding {
+  padding: 5%;
+
+
+}
+
+.cook-heading {
+  padding-left: 30%;
+}
+
+
+.blog-heading {
+  display: flex;
+  text-align: center;
+  padding-left: 10%;
+}
+
+.flex-img {
+  display: flex;
+}
+
+.sign-up {
+  line-height: 150%;
+  color: #FFF;
+  display: flex;
+  background-color: #D27722;
+  border-radius: 5%;
+  box-sizing: border-box;
+}
+
+.flex-signup {
+  display: flex;
+}
+
+.three-font {
+  padding: 1px;
+  width: 10%;
+  text-align: center;
+  font-size: 120px;
+  position: absolute;
+  margin-top: -3rem;
+  background-color: #D27722;
+  border-radius: 10%;
+}
+
+.expertz {
+
+  display: flex;
+}
+
+.container {
+  display: flex;
+  padding-left: 5%;
+}
+
+.align {
+  text-align: left;
+
+}
+
+.cake {
+
+  border-radius: 2cm;
+}
+
+.olivia {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 5%;
+  display: flex;
+}
+
+.grid-contain {
+  padding-left: 40%;
+
+  padding: 20px;
+  text-align: center;
+}
+
+.baker1 {
+
+  padding-bottom: 5%;
+  padding-left: 10%;
+  display: flex;
+}
+
+.advantage-border {
+
+  display: flex;
+  width: 550px;
+  border-radius: 16px;
+  border: 1px solid var(--Primary-Lighten, #FFDBB8);
+  background: var(--Background, #FFF);
+  padding-bottom: 2%;
+}
+
+.bakers {
+  padding: 2%;
+  display: flex;
+
+  border-radius: 16px;
+  border: 1px solid var(--Primary-Lighten, #FFDBB8);
+  background: var(--Background, #FFF);
+
+
+
+}
+.button-blogs{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.tutor {
+  padding: 2%;
+  background-color: #D27722;
+}
+
+.two-flex {
+  display: flex;
+}
+
+.card-text {
+  font-size: large;
+}
+
+
+
+.card {
+  width: 300px;
+  margin: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s;
+}
+
+.button-text {
+
+  color: var(--Primary, #D27722);
+  font-family: Kanit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.layout-name {
+  display: flex;
+}
+
+
+.button-names {
+  display: flex;
+  padding: 4px 24px;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 58px;
+  border: 1px solid var(--Primary-Lighten, #FFDBB8);
+  background: var(--Secondary-Background, #FFFDF4);
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+  .heading {
+    background-color: lightblue;
+  }
+}
